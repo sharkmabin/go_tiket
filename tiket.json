@@ -1,0 +1,14 @@
+{
+    "user_name":[
+        "马彬彬",
+        "陶娜娜"
+    ],
+    "start_station":"淮北",
+    "end_station":"上海",
+    "start_date":"2018-12-06",
+    "start_time":"21:00",
+    "tiket":{
+        "login_name":"17601218026",
+        "login_pwd":"ama814233092"
+    }
+}
